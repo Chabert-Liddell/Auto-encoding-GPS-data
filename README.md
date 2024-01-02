@@ -11,3 +11,6 @@ python train_traj_vae.py --nz 3 --model "cvae"
 
 For a VAE model with 4 latent dimensions
 python train_traj_vae.py --nz 4 --model "vae"
+
+# References
+Chabert-Liddell, S. C., Bez, N., Gloaguen, P., Donnet, S., & Mahévas, S. (2023). Auto-encoding GPS data to reveal individual and collective behaviour. arXiv preprint arXiv:2312.00456.
